@@ -1,11 +1,11 @@
 {
   "name": "juromecir-package",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "wawjs",
   "main": "index.js",
   "scripts": {
-     "test": "mocha --color test",
-     "start": "node src/index.js"
+    "test": "mocha --color test",
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/JuroMecir/JuroMecir-package#readme",
   "dependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^6.2.2",
+    "taddo3-package": "git+https://github.com/taddo3/taddo3-package.git"
   }
 }
- 
