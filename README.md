@@ -1,2 +1,3 @@
 # JuroMecir-package
-wawjs-cviko5
+cviko 5
+

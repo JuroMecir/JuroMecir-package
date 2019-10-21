@@ -1,0 +1,28 @@
+{
+  "name": "juromecir-package",
+  "version": "1.0.0",
+  "description": "wawjs",
+  "main": "index.js",
+  "scripts": {
+     "test": "mocha --color test",
+     "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuroMecir/JuroMecir-package.git"
+  },
+  "keywords": [
+    "wawjs",
+    "cviko5"
+  ],
+  "author": "jurajmecir@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuroMecir/JuroMecir-package/issues"
+  },
+  "homepage": "https://github.com/JuroMecir/JuroMecir-package#readme",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
+ 
