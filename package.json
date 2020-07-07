@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/JuroMecir/JuroMecir-package#readme",
   "dependencies": {
-    "electron": "^7.0.0",
+    "electron": "^7.2.4",
     "taddo3-package": "git+https://github.com/taddo3/taddo3-package.git"
   },
   "devDependencies": {
