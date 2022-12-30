@@ -26,6 +26,6 @@
     "taddo3-package": "git+https://github.com/taddo3/taddo3-package.git"
   },
   "devDependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   }
 }
